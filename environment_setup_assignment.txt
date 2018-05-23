@@ -1,0 +1,4 @@
+1. npm is the package manager for Node.js. It contains all of the files you need for a module and provides a useful interface.
+
+2. The package.json file contains the data relevant to the project. 
+It is used to give information to npm that allows it to identify the project and handle the dependencies. 
